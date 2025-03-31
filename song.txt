@@ -1,12 +1,9 @@
-<<<<<<< HEAD
 Hello Git!
 jghkhkkj
 jhkkbn
 jhkhlkk
-dfghjkl;
-=======
-зміни додано
+dfghjkзміни додано
 dfghjklcsnnc
 slkncm
 ghkjlm,
->>>>>>> 977c09f (Додала тута шось та)
+977c09f (Додала тута шось та)
